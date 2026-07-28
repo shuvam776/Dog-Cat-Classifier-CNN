@@ -1,5 +1,5 @@
 Flask==3.0.3
-gunicorn==22.0.0
+gunicorn==23.0.0
 onnx==1.19.0
 onnxruntime==1.28.0
 numpy
